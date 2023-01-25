@@ -1,0 +1,17 @@
+#label{
+    font-family: fantasy;
+    text-align: center;
+    margin-left: 400px;
+}
+#G_N{
+    background-color: skyblue;
+    border-color: blue;
+    height: 20px;
+    margin-left: 20px;
+}
+#button{
+    background-color: tomato;
+    width: auto;
+    height: 50px;
+    margin-left: 20px;
+}
